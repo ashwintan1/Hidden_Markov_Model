@@ -1,2 +1,3 @@
-# Hidden_Markov_Model
-This is a repository for the final course project for _STAT 534: Statistical Computing_, taught by **Prof. Marina Meila** at the University of Washington, Seattle in Spring 2019.
+# Training a Hidden Markov Model
+
+This is a repository for the final course project for _STAT 534: Statistical Computing_, taught by **Prof. Marina Meila** at the University of Washington, Seattle in Spring 2019. The aim of this project was to train a Hidden Markov Model (HMM) on the given training data set and use it to analyze a test dataset. Please refer to Prof. Meila's [Lecture notes](https://github.com/ashwintan1/Hidden_Markov_Model/blob/master/Notes_and_Project_report/Lecture%208%20-%20Hidden%20Markov%20models.pdf) for a summary of HMMs and the notation used. The final project report can be found [here](https://github.com/ashwintan1/Hidden_Markov_Model/blob/master/Notes_and_Project_report/Final%20Project%20Report.pdf). The code was first implemented in **Python 2.7**, last verified for **version 3.11**.
